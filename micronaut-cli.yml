@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, elasticsearch, graalvm, http-client, java, java-application, junit, logback, lombok, maven, mysql, netty-server, properties, readme, redis-lettuce, shade, spring, spring-boot, testcontainers]
